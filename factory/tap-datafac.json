@@ -1,0 +1,9 @@
+{
+	"name": "tap-datafac",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e0637491-86c4-4a47-a30d-a0e0b8c8c0e8",
+		"tenantId": "cd99fef8-1cd3-4a2a-9bdf-15531181d65e"
+	}
+}
